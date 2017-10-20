@@ -1,3 +1,5 @@
+This is a test app. Nothing to see here. 
+
 == README
 
 This README would normally document whatever steps are necessary to get the
